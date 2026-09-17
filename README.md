@@ -2,14 +2,6 @@
 
 Primeira versão do **XMR Stack** — dashboard para acompanhar posições em Monero.
 
-## Estrutura
-
-- `index.html` — aplicação principal.
-- `assets/icon-*.png` — ícone do aplicativo, usando a arte com o nome **XMR STACK DASHBOARD**.
-- `assets/logo.jpg` — logo interna do aplicativo, sem o nome.
-- `manifest.webmanifest` — configuração para instalação como PWA.
-- `sw.js` — service worker para cache do app shell.
-
 ## GitHub Pages
 
 1. Crie um repositório no GitHub.
